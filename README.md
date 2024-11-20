@@ -22,6 +22,10 @@ https://neat-python.readthedocs.io/en/latest/config_file.html
 # NEAT Module Articles
 https://nn.cs.utexas.edu/stanley.cec02.pdf
 
+# Project Creation and Implementation Details Breakdown
+
+https://medium.com/analytics-vidhya/how-i-built-an-ai-to-play-flappy-bird-81b672b66521
+
 # Instructions
 Run ***flappy_bird.py*** and watch an AI built - start training itself to play the game of **Flappy Bird**!
 
