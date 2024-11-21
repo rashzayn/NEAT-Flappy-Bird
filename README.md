@@ -46,7 +46,7 @@ A Bird either Jumps or it doesn't
 
 # Activation Function
 
-**TanH Activation Fucntion** is chosen to maek it easy to tell wheter a bird did or did not Jump
+**TanH Activation Fucntion** is chosen to make it easy to tell wheter a bird did or did not Jump
 
 ![image](https://github.com/user-attachments/assets/5dac3561-839b-406e-ad38-4feff7eb037f)
 
