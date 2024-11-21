@@ -42,6 +42,18 @@ The following Neural Network, heavily is dependent on the following Input variab
 
 <img width="1048" alt="image" src="https://github.com/user-attachments/assets/a47500cd-a316-4de9-b827-890a062d5bf9">
 
+<img width="1352" alt="image" src="https://github.com/user-attachments/assets/05968f69-1507-4f7e-a21c-ee63ac1717a1">
+
+# First Demo
+
+<img width="1163" alt="image" src="https://github.com/user-attachments/assets/014aa204-bd27-441a-8fa8-84b5635447b3">
+
+<img width="1189" alt="image" src="https://github.com/user-attachments/assets/6a84ea10-a0d4-4574-a2d5-7248b5845f08">
+
+<img width="1189" alt="image" src="https://github.com/user-attachments/assets/864247a2-841c-47d9-8c90-4fc1c1ce4d17">
+
+<img width="1189" alt="image" src="https://github.com/user-attachments/assets/5ce6bafc-9933-4d71-a49e-64619af1158f">
+
 
 # Outputs Obtained
 
