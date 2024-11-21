@@ -38,6 +38,11 @@ The following Neural Network, heavily is dependent on the following Input variab
 
 ![image](https://github.com/user-attachments/assets/cb384d65-4766-4889-833c-78d7d0a31f73)
 
+# Neural Network
+
+<img width="1048" alt="image" src="https://github.com/user-attachments/assets/a47500cd-a316-4de9-b827-890a062d5bf9">
+
+
 # Outputs Obtained
 
 A Bird either Jumps or it doesn't
